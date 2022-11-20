@@ -1,0 +1,29 @@
+.container {
+    margin: 10em auto 10em auto;
+    width: 65%;
+
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    min-width: 0;
+}
+.col {
+    flex: 1;
+    position: relative;
+    margin: 10px;
+}
+
+p, h1, h2, span, .numbertext {
+    font-family: "Muli";
+    text-align: justify;
+    text-justify: inter-word;
+}
+.caption-text {
+    font-family: "Muli";
+}
+
+img {
+    max-width: 100%;
+}
