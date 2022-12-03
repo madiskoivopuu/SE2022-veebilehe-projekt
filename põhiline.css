@@ -27,3 +27,10 @@ p, h1, h2, span, .numbertext {
 img {
     max-width: 100%;
 }
+
+.backBtn {
+    border: none;
+    background-color: rgb(255,208,153);
+    cursor: pointer;
+    font-size: 36px;
+}
