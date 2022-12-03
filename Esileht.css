@@ -1,5 +1,7 @@
 .tiitel {
     text-align: center;
+    color: white;
+    font-size: 40px;
 }
 
 .pildi-tiitel {
@@ -7,6 +9,7 @@
 
     font-size: 32px;
     color: white;
+    text-shadow: 2px 2px 5px black;
 
     text-align: center;
     left: 0;
