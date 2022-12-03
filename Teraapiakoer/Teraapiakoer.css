@@ -7,7 +7,7 @@ html{
 *{padding: 0; margin: 0; box-sizing: border-box;}
 body{height: 900px;}
 header {
-	background: url(teraapia.jpg);
+	background: url("teraapia_taust.jpg");
     
 	text-align: center;
 	width: 100%;
