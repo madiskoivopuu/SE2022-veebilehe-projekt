@@ -32,6 +32,11 @@ html{
     background-image: url("esileht3.jpg");
 }
 
-center{
-    position:static;
+#link{
+    font-size: 30px;
+    
+    color: antiquewhite;
+}
+#lingi{
+    background-color: rgb(104, 76, 42);
 }
