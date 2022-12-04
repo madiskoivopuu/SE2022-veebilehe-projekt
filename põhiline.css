@@ -1,6 +1,7 @@
 .container {
     margin: 0em auto 10em auto;
     width: 65%;
+    margin-bottom: 0%;
 }
 
 .row {
@@ -61,5 +62,10 @@ h1{
 
 html{
     background: rgb(228, 207, 183);
+}
+
+#nupp{
+    font-size:60px;
+    margin-bottom: 60px;
 }
 
