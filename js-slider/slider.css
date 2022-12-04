@@ -17,6 +17,12 @@ Asukoht: https://www.w3schools.com/howto/howto_js_slideshow.asp
   display: none;
 }
 
+.slides > img {
+  height: 500px;
+  width: 1000px;
+  object-fit: cover;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -62,6 +68,10 @@ Asukoht: https://www.w3schools.com/howto/howto_js_slideshow.asp
   padding: 8px 12px;
   position: absolute;
   top: 0;
+}
+
+.slideshow-buttons {
+  text-align: center;
 }
 
 /* The dots/bullets/indicators */
