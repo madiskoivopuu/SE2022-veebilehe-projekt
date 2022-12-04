@@ -1,7 +1,5 @@
 
-html{
-    background: rgb(255,208,153);
-}
+
 
 
 
@@ -20,7 +18,7 @@ header {
 
 h1 {
 	font-family: 'Dancing Script', cursive;
-	font-size: 80px;
+	
 	margin-bottom: 30px;
     text-align: center;
     
