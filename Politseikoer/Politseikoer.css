@@ -1,3 +1,11 @@
-html{
-    background: rgb(255,208,153);
+
+header {
+	background: url("https://images.squarespace-cdn.com/content/v1/5df593004b4fbe1087bac34c/1576901993920-NH5BEFTKUB9XFAQ9TBFW/DSC08170-3.jpg?format=2500w");
+	text-align: center;
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
 }

@@ -31,3 +31,7 @@
 html{
     background-image: url("esileht3.jpg");
 }
+
+center{
+    position:static;
+}

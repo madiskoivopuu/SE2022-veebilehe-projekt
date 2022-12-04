@@ -1,3 +1,11 @@
-html{
-    background: rgb(255,208,153);
+
+header {
+	background: url("https://www.prouddogmom.com/wp-content/uploads/2020/12/8-Types-Of-Assistance-Dogs.jpg");
+	text-align: center;
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
 }
