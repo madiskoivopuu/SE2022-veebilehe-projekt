@@ -38,11 +38,10 @@ html{
     background-image: url("esileht3.jpg");
 }
 
-#link{
+#loe-lisa-link{
     font-size: 30px;
     
     color: antiquewhite;
-}
-#lingi{
     background-color: rgb(104, 76, 42);
+    border: 2px solid black;
 }

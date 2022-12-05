@@ -18,7 +18,7 @@
     padding: 20px;
 }
 
-p, h1, h2, h6, span, .numbertext {
+p, h1, h2, h6, a, span, .numbertext {
     font-family: "Muli";
     text-align: justify;
     text-justify: inter-word;
@@ -49,8 +49,9 @@ img {
     width: 0px;
     height: 0px;
 
+    text-decoration: none;
+    color: black;
     border: none;
-    background-color: rgb(255,208,153);
     cursor: pointer;
     font-size: 36px;
 }
@@ -68,8 +69,15 @@ html{
     background: rgb(228, 207, 183);
 }
 
-#nupp{
+.alumised-nooled {
     font-size:60px;
     margin-bottom: 60px;
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+
+.videoplayer {
+    border: 0;
 }
 
